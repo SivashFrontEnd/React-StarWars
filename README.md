@@ -1,2 +1,2 @@
 # React-StarWars
-course project
+React project
