@@ -1,0 +1,31 @@
+.screen2{
+    background-color: rgba(0, 0, 0, 0.6);
+    padding-top: 2rem;
+}
+
+.search-title{
+   background-color: #0D0D0D;
+   color: white;
+   padding: .5rem;
+   width: 60%;
+   max-width: 800px;
+   min-width: 200px;
+   border-radius: 8px;
+   margin-left: 2rem;
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    padding: 2rem;
+}
+
+.card{
+    color: white;
+    padding: .4rem;
+    text-align: center;
+    width: 19%;
+    min-height: 150px;
+    background-color: black;
+}
